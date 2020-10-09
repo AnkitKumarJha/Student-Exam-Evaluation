@@ -1,8 +1,8 @@
 # Student Exam Evaluation
 
-The project was to predict the score of a student in the upcoming examination by learning his/her past examination data.
-The raw data were collected from online sources.
-Used Linear Regression model to predict the expected score of the student.
+Developed a Machine Learning model using Linear Regression supervised learning technique.
+Based on the student dataset containing hours and marks obtained by the particular student, it will predict the average marks on any test data based on the hours of study.
+(The raw data were collected from online sources.)
 
 ### Output :
 <img src="images/img1.jpg">
